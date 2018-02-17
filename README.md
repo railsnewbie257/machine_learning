@@ -1,24 +1,26 @@
 <h2>Reading List</h2>
 
-[Think Stats](http://www.greenteapress.com/thinkstats/)
+[from here](https://www.analyticsvidhya.com/blog/2018/02/10-free-must-read-machine-learning-e-books/)
 
-[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf)
+- [Think Stats](http://www.greenteapress.com/thinkstats/)
 
-[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+- [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf)
 
-[Bayesian Reasoning and Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
-[A Programmer’s Guide to Data Mining](http://guidetodatamining.com/)
+- [Bayesian Reasoning and Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
 
-[Mining of Massive Datasets](http://infolab.stanford.edu/%7Eullman/mmds/book.pdf)
+- [A Programmer’s Guide to Data Mining](http://guidetodatamining.com/)
 
-[A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
+- [Mining of Massive Datasets](http://infolab.stanford.edu/%7Eullman/mmds/book.pdf)
 
-[Deep Learning](http://www.deeplearningbook.org/)
+- [A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
 
-[Natural Language Processing with Python](https://www.researchgate.net/publication/220691633_Natural_Language_Processing_with_Python)
+- [Deep Learning](http://www.deeplearningbook.org/)
 
-[Natural Language Processing with Python](http://www.mlyearning.org/)
+- [Natural Language Processing with Python](https://www.researchgate.net/publication/220691633_Natural_Language_Processing_with_Python)
+
+- [Natural Language Processing with Python](http://www.mlyearning.org/)
 
 
 
